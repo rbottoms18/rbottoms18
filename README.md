@@ -6,7 +6,7 @@ Some of the projects I've completed are:
 
 #### [Kuzushiji classifcation using machine learning](https://github.com/rbottoms18/kuzushiji-classification)
 
-I implemented three different image classification models, two using machine learning, to attempt to classify different kinds of antiquated Japanese characters. I used a K-Nearest Neighbors classifier, a Fully Connected Neural Network, and a Convoluational Neural Network.
+I implemented three different image classification models in Python, two using machine learning, to attempt to classify different kinds of antiquated Japanese characters. I used a K-Nearest Neighbors classifier, a Fully Connected Neural Network, and a Convoluational Neural Network.
 I compared the effectiveness of these three algorithsm on both full data and dimension reduced (compressed) data, as well as comparing wall-clock runtimes.
 
 <p align="center">
